@@ -3,8 +3,6 @@
 Este programa contiene diversos ejercicios realizados en C# 
 La idea principal es la utilizacion de sentencias como IF, FOR, WHILE, DO WHILE, etc
 
-El ejecutable tambien lo puedes encontrar en la siguiente ruta: Vivora\Vivora\bin\Debug\vibora.exe
-
 
 ## Licencia
 
